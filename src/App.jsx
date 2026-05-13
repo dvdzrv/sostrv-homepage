@@ -32,7 +32,7 @@ function App() {
           
           <div className="relative z-10 mx-auto max-w-3xl">
             <span className="mb-4 inline-block px-3 py-1 text-xs font-semibold tracking-wider text-blue-400 uppercase border border-blue-400/30 rounded-full bg-blue-400/5">
-              Stredná odborná škola technická
+              Stredná odborná škola technická Rožňava
             </span>
             <h1 className="mb-6 text-4xl font-extrabold tracking-tight text-white sm:text-6xl">
               Projekty našich <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-500">študentov</span>
