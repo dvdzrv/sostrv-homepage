@@ -1,0 +1,14 @@
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" id="svg1" inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)" sodipodi:docname="Logo_Hammerwerk.svg" viewBox="45.57 118.49 112.89 22">
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="1.3095539" inkscape:cx="291.32059" inkscape:cy="505.13386" inkscape:window-width="1920" inkscape:window-height="974" inkscape:window-x="2869" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:current-layer="layer1"/>
+  <defs id="defs1">
+    <rect x="192.43195" y="325.30162" width="213.81327" height="239.77631" id="rect2"/>
+    <rect x="145.08758" y="368.06428" width="461.22578" height="181.74128" id="rect1"/>
+  </defs>
+  <g inkscape:label="Vrstva 1" inkscape:groupmode="layer" id="layer1">
+    <text xml:space="preserve" transform="scale(0.26458333)" id="text1" style="fill:#000000;writing-mode:lr-tb;text-orientation:auto;direction:ltr;white-space:pre;shape-inside:url(#rect1)"/>
+    <text xml:space="preserve" transform="scale(0.26458333)" id="text2" style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#000000"/>
+    <text xml:space="preserve" style="font-size:14.1111px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:125.519;fill:#000000;stroke-width:0.264583" x="58.995922" y="135.77142" id="text3" transform="translate(-13.429257,-2.2858309)"><tspan x="58.995922" y="135.77142" id="tspan2"><tspan style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'" id="tspan1">HAMMERWERK</tspan></tspan></text>
+    <rect style="fill:#000000;stroke-width:0.264583" id="rect3" width="87.887756" height="2.42449" x="45.887058" y="135.75706"/>
+    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583" x="136.58604" y="139.0244" id="text4"><tspan sodipodi:role="line" id="tspan4" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583" x="136.58604" y="139.0244">STUDIO</tspan></text>
+  </g>
+</svg>

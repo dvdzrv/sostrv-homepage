@@ -6,9 +6,9 @@ export default function ProjectCard({ image, title, description, href }) {
             target="_blank"
             rel="noreferrer"
         >
-            <div className="aspect-video w-full overflow-hidden">
+            <div className="aspect-video w-full overflow-hidden bg-white flex items-center justify-center p-4">
                 <img
-                    className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
+                    className="max-h-full w-full object-contain transition-transform duration-500 group-hover:scale-110"
                     src={image}
                     alt={title}
                 />

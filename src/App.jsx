@@ -1,22 +1,25 @@
 import ProjectCard from './components/ProjectCard';
+import hammerwerkLogo from './assets/hammerwerk.svg';
+import lucidusLogo from './assets/lucidus.png';
+import gemer from './assets/gemer.png';
 
 const projects = [
   {
     title: 'Hammerwerk rozhlasové štúdio',
-    description: 'Netradičné podstivé rozhlasové štúdio.',
-    image: 'https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=800&q=80',
+    description: 'Netradičné, ale poctivé rozhlasové štúdio.',
+    image: hammerwerkLogo,
     href: 'https://hammerwerk.sostrv.org',
   },
   {
     title: 'Tour de Gemer',
-    description: 'Mapa Gemera.',
-    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80',
+    description: 'Ineraktívna mapa Gemera. Preskúmajte zákutia Gemera.',
+    image: gemer,
     href: 'https://gemer.sostv.org',
   },
   {
     title: 'Websklad Lucidus',
-    description: 'Webový skladový systém.',
-    image: 'https://images.unsplash.com/photo-1518770660439-5b7a6f8f7b1e?auto=format&fit=crop&w=800&q=80',
+    description: 'Libre webový skladový systém.',
+    image: lucidusLogo,
     href: 'https://websklad.sostrv.org',
   },
 ];
