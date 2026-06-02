@@ -1,14 +1,41 @@
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" id="svg1" inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)" sodipodi:docname="Logo_Hammerwerk.svg" viewBox="45.57 118.49 112.89 22">
-  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="1.3095539" inkscape:cx="291.32059" inkscape:cy="505.13386" inkscape:window-width="1920" inkscape:window-height="974" inkscape:window-x="2869" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:current-layer="layer1"/>
-  <defs id="defs1">
-    <rect x="192.43195" y="325.30162" width="213.81327" height="239.77631" id="rect2"/>
-    <rect x="145.08758" y="368.06428" width="461.22578" height="181.74128" id="rect1"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 320 160">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Platypi-Bold, Platypi;
+        font-weight: 700;
+        letter-spacing: .2em;
+      }
+
+      .st0, .st1 {
+        font-size: 24px;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st2, .st3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        font-family: Platypi-Light, Platypi;
+        font-weight: 300;
+        letter-spacing: .1em;
+      }
+    </style>
   </defs>
-  <g inkscape:label="Vrstva 1" inkscape:groupmode="layer" id="layer1">
-    <text xml:space="preserve" transform="scale(0.26458333)" id="text1" style="fill:#000000;writing-mode:lr-tb;text-orientation:auto;direction:ltr;white-space:pre;shape-inside:url(#rect1)"/>
-    <text xml:space="preserve" transform="scale(0.26458333)" id="text2" style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#000000"/>
-    <text xml:space="preserve" style="font-size:14.1111px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:125.519;fill:#000000;stroke-width:0.264583" x="58.995922" y="135.77142" id="text3" transform="translate(-13.429257,-2.2858309)"><tspan x="58.995922" y="135.77142" id="tspan2"><tspan style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'" id="tspan1">HAMMERWERK</tspan></tspan></text>
-    <rect style="fill:#000000;stroke-width:0.264583" id="rect3" width="87.887756" height="2.42449" x="45.887058" y="135.75706"/>
-    <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583" x="136.58604" y="139.0244" id="text4"><tspan sodipodi:role="line" id="tspan4" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583" x="136.58604" y="139.0244">STUDIO</tspan></text>
+  <text class="st0" transform="translate(51.27 70.4)"><tspan x="0" y="0">Hammerwerk</tspan></text>
+  <text class="st1" transform="translate(116.89 102.9)"><tspan x="0" y="0">studio</tspan></text>
+  <line class="st3" x1="30.01" y1="79.01" x2="288.28" y2="79.01"/>
+  <g>
+    <ellipse class="st3" cx="99.8" cy="90.26" rx="4.4" ry="6"/>
+    <line class="st2" x1="96.03" y1="102.96" x2="104.2" y2="102.96"/>
+    <path class="st2" d="M93.73,94.11c1.43,3.59,4.49,5.55,7.34,4.88,3.24-.75,4.66-4.52,4.79-4.88"/>
+    <line class="st2" x1="99.8" y1="99.38" x2="99.8" y2="103.02"/>
   </g>
 </svg>
